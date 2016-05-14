@@ -1,1 +1,22 @@
-hwjhej
+TODO:
+- Köpa domän [Kelly]
+- Investigera egen webbserver vs. köpa tjänst [Kelly]
+- Investigera teknik för webbsida
+
+Första version:
+- På engelska
+- Datum, save the date
+- Plats (men inte så detaljerat)
+- Bilder, design
+- Rosor(soft pink) + vatten
+- kontaktperson(er), kontaktinfo
+
+
+Senare prio:
+- googleanmälan
+- detaljerad info om bokning, planering ALLT
+- LegoGIF
+
+
+Frågeställningar:
+
