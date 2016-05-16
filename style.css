@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+}
+
+#section2 {
+    background-color: #FFB6C1;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        background-color: red;
+    }
+
+    #section2 {
+    	background-color: #FFB6C1;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        background-color: green;
+    }
+
+    img {
+    	width: 300px;
+    }
+
+    #section2 {
+    	background-color: #FFB6C1;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        background-color: lightgreen;
+    }
+
+    #section2 {
+    	background-color: #FFB6C1;
+    }
+
+     /* Minskar gutter-avståndet */
+    /*div[class^="col"]{padding-left:5px; padding-right:5px;}*/
+}

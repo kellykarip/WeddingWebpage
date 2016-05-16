@@ -1,7 +1,7 @@
 TODO:
 - Köpa domän [Kelly]
 - Investigera egen webbserver vs. köpa tjänst [Kelly]
-- Investigera teknik för webbsida
+- Investigera teknik för webbsida [Åsa]
 
 Första version:
 - På engelska
@@ -20,3 +20,18 @@ Senare prio:
 
 Frågeställningar:
 
+
+Länkar:
+
+Bra tutorial till att koda en Single Page Website med HTML5, CSS och liiite JQuery
+http://tutorialzine.com/2010/02/html5-css3-website-template/
+
+Bootstrap, enkelt ramverk att använda för att göra snygg CSS som är responsiv (dvs ändrar sig för mobil/dator)
+http://getbootstrap.com/ 
+
+Litet intro till Single Web Page (bara för referens):
+https://github.com/okTurtles/group-income-simple/blob/master/docs/Getting-Started-frontend.md
+
+Enkel tutorial om React. React använder man om man vill ändra UI:t snabbt om man har delar som ändras. I exemplet bygger man ett litet kommentarsfält.
+Detta verkar rätt enkelt faktiskt. Kanske något att pilla med senare om vi vill lära oss något nytt :)
+https://facebook.github.io/react/docs/tutorial.html
