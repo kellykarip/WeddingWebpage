@@ -1,7 +1,17 @@
 ﻿TODO:
 - Köpa domän och serverplats på loopia [Kelly]
-- Investigera teknik för webbsida [Åsa]
+- Investigera navbar[Åsa]
 - Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
+- Skriva texter:
+	- Välkomsttext
+	- Schema-text
+	- Boende-info-text
+	- Kontakt-info-text
+	- Bakgrund-Kelly-och-Tomas-text
+	- Kuriosa-förklaringar-texter
+	- Registerings-formular-text
+
+- Styla boxar med rundade kanter och ljus-aprikos-färg, och eventuella ljusa-blommor-bilder i kanterna.
 
 Första-sidan:
 - Få till så att bakgrundsbilden spänner över hela sidan.
