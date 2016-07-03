@@ -3,6 +3,24 @@
 - Investigera teknik för webbsida [Åsa]
 - Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
 
+Första-sidan:
+- Få till så att bakgrundsbilden spänner över hela sidan.
+- Designa textrutan:
+	- Font
+	- Bilder på blommor för hörnen
+	- Hjärta (font-ikon?)
+	- Style:a bakgrunds-brickan, gärna ljusaprikos: t.ex. (RGB) = (252,226,207)
+Välkomstbrev-sidan:
+- Skriva välkomstbrev
+- Bild som sätter stämning, komplement till första sidan bilden
+- Bild på var vi ska vara
+- Styla brev-bakgrund och rut-form
+- Styla saker runtikring bilderna (bild caption liksom, rundade kanter)
+
+Karta-sidan:
+- Ändra settings för API key så att den bara får användas av min hemsida.
+
+
 
 Första version:
 - På engelska
