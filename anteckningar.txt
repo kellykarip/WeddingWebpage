@@ -1,7 +1,8 @@
 ﻿TODO:
-- Köpa domän [Kelly]
-- Investigera egen webbserver vs. köpa tjänst [Kelly]
+- Köpa domän och serverplats på loopia [Kelly]
 - Investigera teknik för webbsida [Åsa]
+- Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
+
 
 Första version:
 - På engelska
@@ -19,6 +20,7 @@ Senare prio:
 - translations [Åsa checkar]
 - QR-kod till hemsidan från inbjudan
 - instagram-flöde under festen
+- möjlighet för gäster att t.ex. lägga upp länk till bilder
 
 
 Övrigt:

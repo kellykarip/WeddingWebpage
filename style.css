@@ -1,5 +1,7 @@
 body {
     background-color: lightblue;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 
 #section2 {
@@ -38,7 +40,41 @@ body {
     #section2 {
     	background-color: #FFB6C1;
     }
+    #sunsetImage {
+    /*background-position: center top;*/
+    background-size: cover;
+    width: 100%;
+    /*height: 1000px;*/
+    background-repeat: no-repeat;
+    } 
+
+    #section3{
+        background: color url('images/test-sunset.png') others;
+        /*background-image: url("images/test-sunset.png");
+        background-position: center top;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat; */
+    }
+
 
      /* Minskar gutter-avståndet */
     /*div[class^="col"]{padding-left:5px; padding-right:5px;}*/
+}
+
+
+/*#section3{
+    background-image: url("images/test-sunset.png");
+    background-position: center top;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+}*/
+
+#dateSection {
+    background-color: white;
+    width: 25%;
+    height: 100%
 }
