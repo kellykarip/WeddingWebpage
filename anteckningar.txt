@@ -1,4 +1,4 @@
-TODO:
+﻿TODO:
 - Köpa domän [Kelly]
 - Investigera egen webbserver vs. köpa tjänst [Kelly]
 - Investigera teknik för webbsida [Åsa]
@@ -16,6 +16,14 @@ Senare prio:
 - googleanmälan
 - detaljerad info om bokning, planering ALLT
 - LegoGIF
+- translations [Åsa checkar]
+- QR-kod till hemsidan från inbjudan
+- instagram-flöde under festen
+
+
+Övrigt:
+- Vitpatinerad träbåt med blommor och ljus i som bordsdekoration :)
+
 
 
 Frågeställningar:
