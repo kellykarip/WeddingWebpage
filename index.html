@@ -2,14 +2,12 @@
 
 <html>
 <head>
-
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<!--<meta name="viewport" content="initial-scale=1.0, width=device-width">-->
-
 	<title>Kelly + Tomas = sant</title>
-
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href='https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Internet Explorer HTML5 enabling script: -->
@@ -33,98 +31,128 @@
 	<p>Plats för navbar med länkar</p>
 
 	<div id="introPage">
-		<div class="container-fluid">
-			<!--<div id = "sunsetImage">
-				<img src="images/test-sunset.jpg" class="img-responsive">			
-			</div> -->	
-		</div> <!-- end container -->
-		<div class="container">	
-			<div class="row">
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div id="dateSection">
-							<h1> Kelly and Tomas </h1>
-							<h2> 8th of July </h2>
-						</div><!-- end dateSection -->
-					</div>
-			</div><!-- end row -->
-		</div> <!-- end container -->			
-	</div> <!-- end section 3 -->
-
+		<div class="hero-unit">
+	      	<div class="container">	
+				<div class="row">
+				  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+				    <div class="thumbnail" id="heroDateThumbnail">
+					      <h1> Kelly & Tomas </h1>
+					      <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
+					      <h2> 26th of June 2017 </h2>
+					      <img src="images/roses-divider.png" id="flower">
+				    </div>
+				  </div>  
+				</div>
+			</div>
+    	</div> <!-- end hero-unit -->
+	</div> <!-- end introPage -->
 
 
 	<div id="greetingsPage">
 		<div class="container">
 			<div class="row">
-				<div id="welcomeSection">
 					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 			  			<div id="welcomeLetter">
-			  				<h1> Welcome!</h1>
-			  				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. </p>
+			  				<h1> Welcome to our wedding!</h1>
+							<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices enim et turpis malesuada, vel laoreet sapien volutpat. Sed eu porttitor est, sit amet maximus mauris. Nunc quis orci id ex pharetra lacinia. Praesent tellus sem, aliquam eget eros sit amet, sagittis scelerisque elit. Vestibulum sagittis viverra enim, id scelerisque urna maximus sit amet. Cras sed nulla ut risus molestie maximus at vel elit. Proin a nibh id neque vehicula iaculis. Fusce sit amet leo risus. Ut pulvinar imperdiet turpis, sit amet egestas massa tempus ut. Maecenas ut nibh leo. Nullam quis odio et nisi hendrerit pulvinar. Integer lectus nulla, porttitor et scelerisque ac, ullamcorper nec lectus. Etiam pellentesque sit amet turpis a commodo. Vestibulum vitae semper ligula, non convallis libero. </p>
+
+							<p> Nunc leo tortor, condimentum volutpat enim facilisis, elementum hendrerit massa. Nulla ut dignissim lectus. Fusce lobortis tellus neque, vitae egestas odio pretium nec. Integer a felis vel turpis elementum facilisis. Integer aliquet rhoncus sem ut euismod. Praesent ullamcorper lacus nisi, nec mollis odio ullamcorper at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper ullamcorper ante, sed fermentum sem. </p>
 			  				<h2> /Kelly and Tomas</h2>
 			  			</div>	
 			  		</div>
+			  	
+
 					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-						<img src="images/citron.png" class="img-responsive">
-						<div id="formatTitle"><h2>Fin blomma</h2></div>
-						<img src="images/bombonieres.png" class="img-responsive">
-						<div id="formatTitle"><h2>Fin blomma</h2></div>
+						<div class="thumbnail" id="welcomeImageThumbnail">
+							<img src="images/kelly-tomas.jpg" class="img-responsive">
+							<div class="caption">
+	        					<h3>A nice day in the archipelago</h3>
+	        				</div>	
+	        			</div>	
+	        			<div class="thumbnail" id="welcomeImageThumbnail">
+							<img src="images/buketter.jpg" class="img-responsive">
+							<div class="caption">
+	        					<h3>Roses en masse</h3>
+	        				</div>	
+	        			</div>	
 					</div>
-				</div> <!-- end welcomeSection -->
-			</div>
+
+				</div>
 		</div> <!-- end container -->
 	</div> <!-- end section 1 -->
 
-	<div id="map"></div>
-	<script>
-        function initMap() {
-          var mapDiv = document.getElementById('map');
-          var map = new google.maps.Map(mapDiv, {
-              center: {lat: 40.3270311, lng: 23.9043686},
-              zoom: 8
-          });
-        }
-    </script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBr-mommsr7yCEMA3tmaJ_Xh3yN_WhSbKY&callback=initMap">
-    </script>
-
 	<div id="registrationPage">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-					<h1> RSVP </h1>
-					<h2> Please register to our wedding using this external page. </h2>
-					<a class="btn btn-default" href="https://docs.google.com/forms/u/0/d/1eMO3S9GT0JpNjKqpYZ9WPSR0AqlghYsc4FoMkCg05fY" role="button">Register</a>
-				</div>
-			</div>
-		</div> <!-- end container -->
-	</div> <!-- end section 2 -->
-
-
-	<div id="section2">
+		<div class="page-header">
+  			<h1>The party <small>A timetable of all events</small></h1>
+		</div>
 		<div class="container">
 			<div class="row">
 				<div id="informationSection">
-					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-						<img src="http://www.modwedding.com/wp-content/uploads/2015/07/wedding-bouquets-1-07012015-ky.jpg" class="img-responsive">
-						<div id="formatTitle"><h2>Fin blomma</h2></div>
-					</div>
-			  		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-			  			<img src="http://www.modwedding.com/wp-content/uploads/2015/07/wedding-bouquets-1-07012015-ky.jpg" class="img-responsive">
-						<div id="formatTitle"><h2>Fin blomma</h2></div>
+			  		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+			  			<div class="thumbnail" id="timeTableThumbnail">
+					      <img src="images/beachparty.jpg" class="img-responsive">
+					      <div class="caption">
+					        <h3>Day 1: Pre-party at the beach</h3>
+					        <p>25th of june, 19.00 </p>
+					        <p>Bring your festive spirit and let's have a party at the beach!</p>
+					        <p>Meeting point: Kostas café</p> 
+					      </div>
+					    </div>
 			  		</div>
-			  		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-						<img src="http://www.modwedding.com/wp-content/uploads/2015/07/wedding-bouquets-1-07012015-ky.jpg" class="img-responsive">
-						<div id="formatTitle"><h2>Fin blomma</h2></div>
+			  		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+						<div class="thumbnail" id="timeTableThumbnail">
+					      <img src="images/Greek-Wedding.jpg" class="img-responsive">
+					      <div class="caption">
+					        <h3>Day 2: The wedding</h3>
+					        <p> 26th of june, 17.00 </p>
+					        <p>The big day when we celebrate the two love birds</p>
+					        <p>Meeting point: The church</p>
+					      </div>
+					    </div>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+						<div class="thumbnail" id="timeTableThumbnail">
+					      <img src="images/brunch.jpg" class="img-responsive">
+					      <div class="caption">
+					        <h3>Day 3: Post-wedding brunch</h3>
+					        <p> 27th of june, 10.00 </p>
+					        <p>Let's cure that hangover and have a bloody mary!</p>
+					        <p>Meeting point: The restaurant</p>
+					      </div>
+					    </div>
 					</div>
 				</div> <!-- end informationSection -->
 			</div>
 		</div> <!-- end container -->
-	</div> <!-- end section 2 -->
 
-	
+		<div id="rsvpSection">
+			<h1> RSVP </h1>
+			<h2> Please register to our wedding before the 26th of may by using this external page. </h2>
+			<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/u/0/d/1eMO3S9GT0JpNjKqpYZ9WPSR0AqlghYsc4FoMkCg05fY" role="button" type="button">Register</a>
+		</div> <!-- end rsvpSection -->
+
+	</div> <!-- registrationPage -->
+
+
+	<div id="practicalInfoSection">
+		<div class="page-header">
+  			<h1>Practical information <small>Where to go and where to stay</small></h1>
+		</div>
+		<p> Här kan man lägga in info om hotell och flyg etc. </p>
+		<div id="map"></div>
+		<script>
+	        function initMap() {
+	          var mapDiv = document.getElementById('map');
+	          var map = new google.maps.Map(mapDiv, {
+	              center: {lat: 40.3270311, lng: 23.9043686},
+	              zoom: 8
+	          });
+	        }
+	    </script>
+	    <script async defer
+	        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBr-mommsr7yCEMA3tmaJ_Xh3yN_WhSbKY&callback=initMap">
+	    </script>
+	</div>
 
 </body>
-
-
 </html> 

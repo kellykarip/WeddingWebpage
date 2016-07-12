@@ -1,22 +1,125 @@
 body {
-    background-color: lightblue;
-    margin: 0 auto;
-    padding: 0 auto;
+    background-color: #cfe9fc;
+   /* margin: 0 auto;
+    padding: 0 auto;*/
+}
+
+.hero-unit {
+    background-image:url('images/test_beach.jpg');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:300px;
+}
+
+.fill{width:100%;height:350px;background-position:center;background-size:cover;
+}
+
+.page-header {
+    margin-left: 40px;
+}
+
+/* Default h1 */
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    color: #494546;
+    font-size: 40px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin: auto;
+}
+
+/* Default h2 */
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    color: #494546;
+    margin: auto;
+}
+
+/* Default h3 */
+h3 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    color: #494546;
+    margin: auto;
+}
+
+#heroDateThumbnail {
+    background-color: #FCE2CF;
+    text-align:center;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+#heroDateThumbnail .glyphicon {
+    font-size: 50px;
+    margin: auto;
+}
+
+#flower {
+    width: 150px;
 }
 
 #greetingsPage {
-    background-color: #FFB6C1;
+    background-color: #fccfd3;
+    padding-top: 50px;
 }
 
-#section2 {
-    background-color: lightgreen;
+#welcomeLetter {
+    background-color: #fff5ee;
+    padding: 20px;
+    margin-bottom: 20px;
 }
+
+#welcomeLetter h1 {
+    font-family: 'Bad Script', cursive;
+}
+
+#welcomeLetter h2 {
+    font-family: 'Bad Script', cursive;
+}
+
+#welcomeImageThumbnail {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#rsvpSection {
+    text-align:center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn {
+    width: 200px;
+   
+}
+
+#practicalInfoSection {
+    background-color: #cffce2;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+} 
+
+
+
 
 @media (min-width: 768px) and (max-width: 991px) {
     /*body {
         background-color: red;
     }*/
+    .hero-unit {
+        height:500px;
+    }
 
+    #heroDateThumbnail {
+        margin-top: 50px;
+    }
 
 }
 
@@ -24,6 +127,14 @@ body {
     /*body {
         background-color: green;
     }*/
+
+    .hero-unit {
+        height:600px;
+    }
+
+    #heroDateThumbnail {
+        margin-top: 50px;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -31,52 +142,19 @@ body {
         background-color: lightgreen;
     }*/
 
-    #sunsetImage {
-    /*background-position: center top;*/
-    /*background-size: cover;*/
-    background-size: 100%;
-    width: 100%;
-    /*height: 1000px;*/
-    background-repeat: no-repeat;
-    } 
-
- 
-    #dateSection {
-        background-color: white;
-        padding: 10px;
-        margin: 20px;
+    .hero-unit {
+        height:600px;
     }
 
-        h1 {
-            font-size: 22px;
-        }
-
-        h2 {
-          font-size: 18px;  
-        }
+    #heroDateThumbnail {
+        margin-top: 50px;
+    }
+}
        
-    #map {
-        width: 100%;
-        height: 400px;
-        background-color: grey;
-    }    
+ 
 
-     /* Minskar gutter-avståndet */
+
+         /* Minskar gutter-avståndet */
     /*div[class^="col"]{padding-left:5px; padding-right:5px;}*/
-}
 
 
-#introPage{
-    background-image: url("images/test-sunset.png");
-    background-size: cover;
-    height: 1000px;
-    background-repeat: no-repeat;
-    /*background-position: center top;
-    width: 100%;
-    */
-}
-
-#dateSection {
-    background-color: white;
-    padding: 50px;
-}

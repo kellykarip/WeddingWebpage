@@ -1,0 +1,6 @@
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+						<img src="images/citron.png" class="img-responsive">
+						<div id="formatTitle"><h2>Fin blomma</h2></div>
+						<img src="images/bombonieres.png" class="img-responsive">
+						<div id="formatTitle"><h2>Fin blomma</h2></div>
+					</div>

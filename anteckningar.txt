@@ -1,4 +1,4 @@
-﻿TODO:
+TODO:
 - Köpa domän och serverplats på loopia [Kelly]
 - Investigera navbar[Åsa]
 - Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
@@ -15,6 +15,9 @@
 
 Första-sidan:
 - Få till så att bakgrundsbilden spänner över hela sidan.
+- Testa denna länk om class=hero-unit:
+http://www.bootply.com/paulmcrobb/DOIvcOX4vI
+
 - Designa textrutan:
 	- Font
 	- Bilder på blommor för hörnen
@@ -29,6 +32,7 @@ Välkomstbrev-sidan:
 
 Karta-sidan:
 - Ändra settings för API key så att den bara får användas av min hemsida.
+- Det är nog bra om kartan är en liten ruta för nu när man skrollar över den med en mac så zoomar man in och ut direkt vilket är jättestörande.  
 
 
 
@@ -48,6 +52,7 @@ Senare prio:
 - translations [Åsa checkar]
 - QR-kod till hemsidan från inbjudan
 - instagram-flöde under festen
+	Testa detta m javascript: http://instafeedjs.com/ 
 - möjlighet för gäster att t.ex. lägga upp länk till bilder
 
 
@@ -60,6 +65,9 @@ Frågeställningar:
 
 
 Länkar:
+
+Episk sida med finter:
+https://www.google.com/fonts
 
 Bra tutorial till att koda en Single Page Website med HTML5, CSS och liiite JQuery
 http://tutorialzine.com/2010/02/html5-css3-website-template/
