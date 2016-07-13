@@ -14,6 +14,11 @@
 - När inbjudningskort är bestämt: 
 	- Definiera färgschema, 3-4 färger och 1-2 gråa nyanser för text etc.
 	- Bestäm fonter
+- Navigation
+	- Fixa ihopkoppling mellan länkar i menyn och delar på sidan
+	- fixa snygg animation när man transporteras!
+	- Skriva lite javascript för att kunna använda mobilmenyn: 
+	http://bootsnipp.com/snippets/featured/mobile-nav-bar
 
 
 Välkomstbrev-sidan:
