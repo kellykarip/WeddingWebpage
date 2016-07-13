@@ -11,25 +11,15 @@
 	- Bakgrund-Kelly-och-Tomas-text
 	- Kuriosa-förklaringar-texter
 	- Registerings-formular-text
+- När inbjudningskort är bestämt: 
+	- Definiera färgschema, 3-4 färger och 1-2 gråa nyanser för text etc.
+	- Bestäm fonter
 
-- Styla boxar med rundade kanter och ljus-aprikos-färg, och eventuella ljusa-blommor-bilder i kanterna.
 
-Första-sidan:
-- Få till så att bakgrundsbilden spänner över hela sidan.
-- Testa denna länk om class=hero-unit:
-http://www.bootply.com/paulmcrobb/DOIvcOX4vI
-
-- Designa textrutan:
-	- Font
-	- Bilder på blommor för hörnen
-	- Hjärta (font-ikon?)
-	- Style:a bakgrunds-brickan, gärna ljusaprikos: t.ex. (RGB) = (252,226,207)
 Välkomstbrev-sidan:
 - Skriva välkomstbrev
 - Bild som sätter stämning, komplement till första sidan bilden
 - Bild på var vi ska vara
-- Styla brev-bakgrund och rut-form
-- Styla saker runtikring bilderna (bild caption liksom, rundade kanter)
 
 Karta-sidan:
 - Ändra settings för API key så att den bara får användas av min hemsida.
