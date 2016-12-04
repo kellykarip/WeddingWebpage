@@ -1,4 +1,5 @@
-TODO:
+﻿TODO:
+
 - Köpa domän och serverplats på loopia [Kelly]
 - Investigera navbar[Åsa]
 - Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
