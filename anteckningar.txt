@@ -1,7 +1,6 @@
-﻿TODO:
+TODO:
 
-- Köpa domän och serverplats på loopia [Kelly]
-- Investigera navbar[Åsa]
+- Köpa domän och serverplats på loopia [Kelly] Klar?
 - Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
 - Skriva texter:
 	- Välkomsttext
@@ -14,11 +13,6 @@
 - När inbjudningskort är bestämt: 
 	- Definiera färgschema, 3-4 färger och 1-2 gråa nyanser för text etc.
 	- Bestäm fonter
-- Navigation
-	- Fixa ihopkoppling mellan länkar i menyn och delar på sidan
-	- fixa snygg animation när man transporteras!
-	- Skriva lite javascript för att kunna använda mobilmenyn: 
-	http://bootsnipp.com/snippets/featured/mobile-nav-bar
 
 
 Välkomstbrev-sidan:
@@ -51,6 +45,10 @@ Senare prio:
 	Testa detta m javascript: http://instafeedjs.com/ 
 - möjlighet för gäster att t.ex. lägga upp länk till bilder
 
+Instagram: Jag började med instafeed men fick det inte att fungera.
+Fixade dock en clientID: ceb989b2aac44041a0f79634416dfa75
+Men man måste också få bort "Sandbox mode".
+
 
 Övrigt:
 - Vitpatinerad träbåt med blommor och ljus i som bordsdekoration :)
@@ -62,11 +60,10 @@ Frågeställningar:
 
 Länkar:
 
-Episk sida med finter:
+Episk sida med fonter:
 https://www.google.com/fonts
 
-Bra tutorial till att koda en Single Page Website med HTML5, CSS och liiite JQuery
-http://tutorialzine.com/2010/02/html5-css3-website-template/
+Använde "Scroll-spy" för att färga det menyitem man är på.
 
 Bootstrap, enkelt ramverk att använda för att göra snygg CSS som är responsiv (dvs ändrar sig för mobil/dator)
 http://getbootstrap.com/ 

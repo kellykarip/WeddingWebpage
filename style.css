@@ -1,6 +1,7 @@
 body {
     background-color: #cfe9fc;
     padding-top: 50px;
+    position: relative;
    /* margin: 0 auto;
     padding: 0 auto;*/
 }
@@ -102,12 +103,10 @@ h3 {
 }
 
 #map {
-    width: 100%;
+    width: 80%;
     height: 400px;
     background-color: grey;
 } 
-
-
 
 
 @media (min-width: 768px) and (max-width: 991px) {
