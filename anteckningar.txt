@@ -1,62 +1,79 @@
+FONT:
+Vanlig text - Garamond
+Kursiv text - Edwardian Script
+
+FÄRGER:
+Medelhavs-aqua, medelhavs-turkos, medelhavs-havsblå,
+bryta av med någon rosa/lila blom-färg
+----------------------------------------------------------
+
 TODO:
+Overall design 
 
-- Köpa domän och serverplats på loopia [Kelly] Klar?
-- Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
-- Skriva texter:
-	- Välkomsttext
-	- Schema-text
-	- Boende-info-text
-	- Kontakt-info-text
-	- Bakgrund-Kelly-och-Tomas-text
-	- Kuriosa-förklaringar-texter
-	- Registerings-formular-text
-- När inbjudningskort är bestämt: 
-	- Definiera färgschema, 3-4 färger och 1-2 gråa nyanser för text etc.
-	- Bestäm fonter
+Nav-bar
+-Färg & Font []
+-Uppdatera med alla sidor allteftersom!
 
+Första-sidan
+- Bakgrundsbild [X]
+- Tomas & Kelly slutgiltig []
+- Länk till anmälan []
 
-Välkomstbrev-sidan:
-- Skriva välkomstbrev
-- Bild som sätter stämning, komplement till första sidan bilden
-- Bild på var vi ska vara
+Välkomst-sidan
+- Välkomsttext []
+- Bild på oss []
+- Bild på var vi ska vara []
+	
+Schema-sidan
+- Schema-text
 
-Karta-sidan:
-- Ändra settings för API key så att den bara får användas av min hemsida.
-- Det är nog bra om kartan är en liten ruta för nu när man skrollar över den med en mac så zoomar man in och ut direkt vilket är jättestörande.  
+Practical Information-sidan
 
+Karta-sub-sidan
+- Gör kartorna engelska []
+- Skriv Ta sig till Ammouliani-text []
+- Ändra settings för API key så att den bara får användas av min hemsida!
 
+Boende-sub-sidan 
+- Boende-info-text []
+- Passande bild
+- Ammouliani-hemsidan
+
+FAQ-sidan
+- Kontakt-info-text
+
+Anmälan-sidan
+- Registerings-formular-text
+
+Extra:
+- Kuriosa-förklaringar-texter
+- Bakgrund-Kelly-och-Tomas-text
+---------------------------------------------------------
 
 Första version:
 - På engelska
 - Datum, save the date
 - Plats (men inte så detaljerat)
 - Bilder, design
-- Rosor(soft pink) + vatten
 - kontaktperson(er), kontaktinfo
-
 
 Senare prio:
 - googleanmälan
 - detaljerad info om bokning, planering ALLT
 - LegoGIF
-- translations [Åsa checkar]
-- QR-kod till hemsidan från inbjudan
 - instagram-flöde under festen
 	Testa detta m javascript: http://instafeedjs.com/ 
 - möjlighet för gäster att t.ex. lägga upp länk till bilder
+----------------------------------------------------------
 
 Instagram: Jag började med instafeed men fick det inte att fungera.
 Fixade dock en clientID: ceb989b2aac44041a0f79634416dfa75
 Men man måste också få bort "Sandbox mode".
-
+----------------------------------------------------------
 
 Övrigt:
 - Vitpatinerad träbåt med blommor och ljus i som bordsdekoration :)
-
-
-
-Frågeställningar:
-
+---------------------------------------------------------
 
 Länkar:
 
@@ -74,3 +91,9 @@ https://github.com/okTurtles/group-income-simple/blob/master/docs/Getting-Starte
 Enkel tutorial om React. React använder man om man vill ändra UI:t snabbt om man har delar som ändras. I exemplet bygger man ett litet kommentarsfält.
 Detta verkar rätt enkelt faktiskt. Kanske något att pilla med senare om vi vill lära oss något nytt :)
 https://facebook.github.io/react/docs/tutorial.html
+---------------------------------------------------------
+
+FÄRDIGT:
+- Köpa domän och serverplats på loopia
+- Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
+- Inbjudningskort beställda, har frågat om färgkoder
