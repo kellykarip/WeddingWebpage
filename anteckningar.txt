@@ -3,8 +3,15 @@ Vanlig text - Garamond
 Kursiv text - Edwardian Script
 
 FÄRGER:
-Medelhavs-aqua, medelhavs-turkos, medelhavs-havsblå,
-bryta av med någon rosa/lila blom-färg
+Ljusblå bakgrund: #6DA3C7
+Mörkblå bakgrund: #025377
+Creame-Vit: #F8F8FA
+Mörkgrön: #02686F
+Mörkgrå text: #707075
+Turkos: #09CAC7
+Ljusgrå kompis: #B2C0CB {används ej just nu 7/1-2017}
+Mellanmörk turkos: #008A99 {anväds ej just nu 7/1-2017}
+
 ----------------------------------------------------------
 
 TODO:
@@ -16,8 +23,9 @@ Nav-bar
 
 Första-sidan
 - Bakgrundsbild [X]
-- Tomas & Kelly slutgiltig []
-- Länk till anmälan, på rätt plats, style:a den? []
+- Tomas & Kelly - box blurrade kanter eller med vit-himmel-bakgrundsbild eller transparant []
+- Länk till anmälan, på rätt plats för de olika skärmstorlekarna []
+- Länk till anmälan rätt text []
 
 Välkomst-sidan
 - Färg & Font []
@@ -30,6 +38,8 @@ Välkomst-sidan
 
 	
 Schema-sidan
+- Varför har schedulePage margin både ovan och nedanför? Är det kopplat till titel? []
+- Delete Titel understräck googla på bootstrap page-header 
 - Font
 - Cirklas med foton och text?
 - En faktiskt tidsLINJE?
