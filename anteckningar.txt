@@ -17,15 +17,22 @@ Nav-bar
 Första-sidan
 - Bakgrundsbild [X]
 - Tomas & Kelly slutgiltig []
-- Länk till anmälan []
+- Länk till anmälan, på rätt plats, style:a den? []
 
 Välkomst-sidan
-- Välkomsttext []
-- Bild på oss []
-- Bild på var vi ska vara []
+- Färg & Font []
+- Beskär bild på oss till den andra bildens dimensioner []
+- Trekantiga "klisterlappar" som om bilder i ett album []
+- Länk till anmälan, style:a den? [] 
+- Kan vi göra kvadraten för brevet mer brev-likt?
+- Välkomsttext [X]
+- Bild på var vi ska vara [X]
+
 	
 Schema-sidan
-- Schema-text
+- Font
+- Cirklas med foton och text?
+- En faktiskt tidsLINJE?
 
 Practical Information-sidan
 
