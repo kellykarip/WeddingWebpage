@@ -1,5 +1,5 @@
 body {
-    background-color: #cfe9fc;
+
     padding-top: 50px;
     position: relative;
    /* margin: 0 auto;
@@ -21,10 +21,10 @@ body {
     margin-left: 40px;
 }
 
+/*Brödtexten */
 p {
-   /*font-family: 'EB Garamond', serif; */
    font-family: 'Palanquin', sans-serif;
-   color: #494546;
+   color: #707075;
 }
 
 
@@ -32,12 +32,16 @@ p {
 h1 {
     /*font-family: 'Shadows Into Light', cursive;*/
     font-family: 'Arbutus Slab', serif;
-    color: #494546;
+    color: #F8F8FA;
     font-size: 40px;
     letter-spacing: -1px;
     line-height: 1;
-    margin-bottom: 0;
-    margin: auto;
+
+   /* margin: auto;*/
+}
+
+.smallh1 {
+    color: #F8F8FA;
 }
 
 /* Default h2 */
@@ -45,7 +49,7 @@ h2 {
     /*font-family: 'Shadows Into Light', cursive;*/
     font-family: 'Arbutus Slab', serif;
     font-size: 25px;
-    color: #494546;
+    color: #F8F8FA;
     margin: auto;
 }
 
@@ -54,12 +58,15 @@ h3 {
     /*font-family: 'Shadows Into Light', cursive;*/
     font-family: 'Arbutus Slab', serif;
     font-size: 20px;
-    color: #494546;
+    color: #F8F8FA;
     margin: auto;
 }
 
 #heroDateThumbnail {
-    background-color: #F8F8FA;
+    /*background-color: #F8F8FA;*/
+
+    background: rgba(248, 248, 249, 0); /* den sista nollan är opaciteten */
+    border: none;
     text-align:center;
     width: 300px;
     margin-top: 40px;
@@ -71,15 +78,10 @@ h3 {
     color: #66D9CB;
 }
 
-#heroDateThumbnail .glyphicon {
-    font-size: 50px;
-    margin: auto;
-}
-
 #rsvpSectionHeader {
    text-align:center;
-    margin-top: 30px;
-    padding-top: 40px;
+    /*margin-top: 30px;*/
+    padding-top: 180px;
     /*width: 400px;
     margin: 0 auto;*/
 
@@ -103,26 +105,32 @@ h3 {
 }
 
 #greetingsPage {
-    background-color: #fccfd3;
+    background-color: #6DA3C7;
     padding-top: 50px;
 }
 
+
+
 #welcomeLetter {
-    background-color: #fff5ee;
+    background-color: #F8F8FA;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    text-align:center;
 }
 
 #welcomeLetter h1 {
-    font-family: 'Bad Script', cursive;
+    font-family: 'GFS Neohellenic', sans-serif;
+    color:#707075;
 }
 
 #welcomeLetter h2 {
-    font-family: 'Bad Script', cursive;
+    font-family: 'Arbutus Slab', serif;
+    color:#707075;
 }
 
 #welcomeLetter h3 {
-    font-family: 'Bad Script', cursive;
+    font-family: 'Arbutus Slab', serif;
+    color:#707075;
 }
 
 #welcomeImageThumbnail {
@@ -131,23 +139,22 @@ h3 {
 
 #rsvpSection {
     text-align:center;
-    margin-top: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 40px;
+
 }
 
-
+/*registreringsknapp*/
 .btn {
     font-family: 'Palanquin', sans-serif;
     color: #F8F8FA;
     width: 200px;
-    background-color: #66D9CB;
+    background-color: #02686F;
     border: none;
 }
 
 .btn:hover {
     color: #F8F8FA;
-    background-color: #B9D7D1;
+    background-color: #09CAC7;
 }
 
 .btn:active {
@@ -155,15 +162,36 @@ h3 {
     background-color: #B9D7D1;
 }
 
-#practicalInfoSection {
-    background-color: #cffce2;
+#schedulePage {
+    padding-top: 30px;
+    background-color: #025377;
 }
 
-#map {
-    width: 80%;
-    height: 400px;
-    background-color: grey;
-} 
+.caption h3 {
+    color: #707075;
+}
+
+.caption {
+    background-color: #F8F8FA;
+    border-color: #F8F8FA;
+}
+
+#practicalInfoSection {
+    padding-top: 30px;
+    background-color: #6DA3C7;
+}
+
+#travelSection1 {
+    background-color: #F8F8FA;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+
 
 /* Den näst minsta skärmstorleken */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -180,7 +208,7 @@ h3 {
     }
 
      #rsvpSectionHeader {
-        margin-top: 30px;
+        padding-top: 150px;
     }
 
 }
@@ -201,7 +229,7 @@ h3 {
     }
 
      #rsvpSectionHeader {
-        margin-top: 100px;
+        padding-top: 220px;
     }
 }
 
@@ -221,7 +249,11 @@ h3 {
     }
 
     #rsvpSectionHeader {
-        margin-top: 250px;
+        padding-top: 400px;
+    }
+
+    #rsvpSection {
+        margin-top: 50px;
     }
 }
        
