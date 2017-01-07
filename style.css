@@ -10,7 +10,8 @@ body {
     background-image:url('images/SaveTheDate_bild.png');
     background-size:cover;
     background-color: #EEEEEE;
-    height:300px;
+    /*height:300px;*/
+    height:500px;
 }
 
 .fill{width:100%;height:350px;background-position:center;background-size:cover;
@@ -20,9 +21,17 @@ body {
     margin-left: 40px;
 }
 
+p {
+   /*font-family: 'EB Garamond', serif; */
+   font-family: 'Palanquin', sans-serif;
+   color: #494546;
+}
+
+
 /* Default h1 */
 h1 {
-    font-family: 'Shadows Into Light', cursive;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
     color: #494546;
     font-size: 40px;
     letter-spacing: -1px;
@@ -33,7 +42,8 @@ h1 {
 
 /* Default h2 */
 h2 {
-    font-family: 'Shadows Into Light', cursive;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
     font-size: 25px;
     color: #494546;
     margin: auto;
@@ -41,18 +51,24 @@ h2 {
 
 /* Default h3 */
 h3 {
-    font-family: 'Shadows Into Light', cursive;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
     font-size: 20px;
     color: #494546;
     margin: auto;
 }
 
 #heroDateThumbnail {
-    background-color: #FCE2CF;
+    background-color: #F8F8FA;
     text-align:center;
-    padding: 10px;
-    margin: 20px;
+    width: 300px;
     margin-top: 40px;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+#heroDateThumbnail h2 {
+    color: #66D9CB;
 }
 
 #heroDateThumbnail .glyphicon {
@@ -60,8 +76,44 @@ h3 {
     margin: auto;
 }
 
-#flower {
-    width: 150px;
+#rsvpSectionHeader {
+   text-align:center;
+    margin-top: 20px;
+    padding-top: 40px;
+    /*width: 400px;
+    margin: 0 auto;*/
+
+}
+
+#rsvpSectionHeader h1,
+#rsvpSectionHeader h2  {
+    color: #F8F8FA;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-lg {
+    color: #F8F8FA;
+    background-color: #66D9CB;
+    border: none;
+}
+
+.btn-lg:hover {
+    color: #F8F8FA;
+    background-color: #B9D7D1;
+}
+
+.btn-lg:active {
+    color: #F8F8FA;
+    background-color: #B9D7D1;
+}
+
+
+#hearts {
+    /*width: 30px;*/
+    /*margin: 20px;
+    float: left;*/
+
 }
 
 #greetingsPage {
@@ -83,6 +135,10 @@ h3 {
     font-family: 'Bad Script', cursive;
 }
 
+#welcomeLetter h3 {
+    font-family: 'Bad Script', cursive;
+}
+
 #welcomeImageThumbnail {
     font-family: 'Shadows Into Light', cursive;
 }
@@ -91,6 +147,7 @@ h3 {
     text-align:center;
     margin-top: 20px;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .btn {
@@ -118,6 +175,7 @@ h3 {
     }
 
     #heroDateThumbnail {
+        width:500px;
         margin-top: 50px;
     }
 
@@ -133,6 +191,7 @@ h3 {
     }
 
     #heroDateThumbnail {
+        width:500px;
         margin-top: 50px;
     }
 }
@@ -147,6 +206,7 @@ h3 {
     }
 
     #heroDateThumbnail {
+        width:500px;
         margin-top: 50px;
     }
 }
