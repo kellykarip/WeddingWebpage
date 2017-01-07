@@ -50,7 +50,7 @@ FAQ-sidan
 - Kontakt-info-text
 
 Anmälan-sidan
-- Registerings-formular-text
+- Registerings-formular-text (Namn på folk i sällskap, email-adress,egen bil förfrågan, kött/inte kött )
 
 Extra:
 - Kuriosa-förklaringar-texter
