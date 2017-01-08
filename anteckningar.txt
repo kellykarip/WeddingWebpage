@@ -1,4 +1,4 @@
-FONT:
+FONT I INBJUDAN:
 Vanlig text - Garamond
 Kursiv text - Edwardian Script
 
@@ -15,27 +15,19 @@ Mellanmörk turkos: #008A99 {anväds ej just nu 7/1-2017}
 ----------------------------------------------------------
 
 TODO:
-Overall design 
 
 Nav-bar
--Färg & Font []
 -Uppdatera med alla sidor allteftersom!
 
 Första-sidan
-- Bakgrundsbild [X]
 - Tomas & Kelly - box blurrade kanter eller med vit-himmel-bakgrundsbild eller transparant []
 - Länk till anmälan, på rätt plats för de olika skärmstorlekarna []
-- Länk till anmälan rätt text []
 
 Välkomst-sidan
-- Färg & Font []
-- Beskär bild på oss till den andra bildens dimensioner []
-- Trekantiga "klisterlappar" som om bilder i ett album []
-- Länk till anmälan, style:a den? [] 
-- Kan vi göra kvadraten för brevet mer brev-likt?
-- Välkomsttext [X]
-- Bild på var vi ska vara [X]
 
+- Beskär bild på oss till den andra bildens dimensioner []
+- Länk till anmälan [] 
+- Gör brevet mer symmetriskt med bilderna, ha större padding på sidorna, och ja pyssla fram en bra design för alla skärmstorlekar
 	
 Schema-sidan
 - Varför har schedulePage margin både ovan och nedanför? Är det kopplat till titel? []
