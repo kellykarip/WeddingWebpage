@@ -19,15 +19,10 @@ TODO:
 Nav-bar
 -Uppdatera med alla sidor allteftersom!
 
-Första-sidan
-- Tomas & Kelly - box blurrade kanter eller med vit-himmel-bakgrundsbild eller transparant []
-- Länk till anmälan, på rätt plats för de olika skärmstorlekarna []
-
 Välkomst-sidan
-
-- Beskär bild på oss till den andra bildens dimensioner []
-- Länk till anmälan [] 
-- Gör brevet mer symmetriskt med bilderna, ha större padding på sidorna, och ja pyssla fram en bra design för alla skärmstorlekar
+- Läs igenom brevet och känn yeah, yeah, wow, wow! []
+- Beskär bild på havet till den andra bildens dimensioner [] 
+- Gör brevet mer symmetriskt med bilderna, ha större padding på sidorna, och ja pyssla fram en bra design för alla skärmstorlekar []
 	
 Schema-sidan
 - Varför har schedulePage margin både ovan och nedanför? Är det kopplat till titel? []
@@ -40,7 +35,8 @@ Practical Information-sidan
 
 Karta-sub-sidan
 - Gör kartorna engelska []
-- Skriv Ta sig till Ammouliani-text []
+- Läs igenom ta sig till Ammouliani-texten och känn yeah, yeah, wow, wow! []
+- Läs igenom boende-tips texten och känn yeah, yeah, wow, wow! []
 - Ändra settings för API key så att den bara får användas av min hemsida!
 
 Boende-sub-sidan 
@@ -50,9 +46,11 @@ Boende-sub-sidan
 
 FAQ-sidan
 - Kontakt-info-text
+- "Typisk Grekisk dag": Sova siesta, sen middag på bröllopsdagen
+- "Jag hittar inte all info" : Vi kommer uppdatera sidan allt eftersom vi har mer info under våren (håll utkik!) eller hör av er till: MAILADRESS
 
 Anmälan-sidan
-- Registerings-formular-text (Namn på folk i sällskap, email-adress,egen bil förfrågan, kött/inte kött )
+- Registerings-formular-text (Namn på folk i sällskap, email-adress,egen bil förfrågan, kött/inte kött, om de kommer på Welcome drink by the pool, om de kommer på Bröllopet)
 
 Extra:
 - Kuriosa-förklaringar-texter
