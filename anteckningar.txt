@@ -33,11 +33,11 @@ Schema-sidan
 
 Practical Information-sidan
 
-Karta-sub-sidan
-- Gör kartorna engelska []
+Travel To Ammouliani-sidan
+- Fixa typo Cruch i map []
 - Läs igenom ta sig till Ammouliani-texten och känn yeah, yeah, wow, wow! []
 - Läs igenom boende-tips texten och känn yeah, yeah, wow, wow! []
-- Ändra settings för API key så att den bara får användas av min hemsida!
+
 
 Boende-sub-sidan 
 - Boende-info-text []
