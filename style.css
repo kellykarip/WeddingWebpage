@@ -201,6 +201,10 @@ h3 {
     border-color: white;
 }
 
+#thessalonikiMapThumbnail{
+    margin-bottom: 1px;
+}
+
 #hotelSectionText {
     background-color: #F8F8FA;
     /*padding: 5px;*/
