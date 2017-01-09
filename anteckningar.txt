@@ -1,7 +1,3 @@
-FONT I INBJUDAN:
-Vanlig text - Garamond
-Kursiv text - Edwardian Script
-
 FÄRGER:
 Ljusblå bakgrund: #6DA3C7
 Mörkblå bakgrund: #025377
@@ -30,19 +26,12 @@ Schema-sidan
 - Font
 - Cirklas med foton och text?
 - En faktiskt tidsLINJE?
+- FIxa så att bilderna har samma dimensioner för alla skärm-storlekar.
 
 Practical Information-sidan
-
-Travel To Ammouliani-sidan
 - Fixa typo Cruch i map []
 - Läs igenom ta sig till Ammouliani-texten och känn yeah, yeah, wow, wow! []
 - Läs igenom boende-tips texten och känn yeah, yeah, wow, wow! []
-
-
-Boende-sub-sidan 
-- Boende-info-text []
-- Passande bild
-- Ammouliani-hemsidan
 
 FAQ-sidan
 - Kontakt-info-text
