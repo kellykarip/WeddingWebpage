@@ -204,10 +204,6 @@ h3 {
     border-color: white;
 }
 
-#thessalonikiMapThumbnail{
-    margin-bottom: 1px;
-}
-
 #hotelSectionText {
     background-color: #F8F8FA;
     /*padding: 5px;*/
@@ -223,6 +219,75 @@ h3 {
     background-color: #025377;
 }
 
+#ferrySectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#dresscodeSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#giftSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#toastSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#chalkidikiSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#moreinfoSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#FAQSectionText{    
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
 
 /* Den näst minsta skärmstorleken */
 @media (min-width: 768px) and (max-width: 991px) {
