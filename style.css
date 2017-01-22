@@ -1,5 +1,5 @@
 body {
-    background-color: #cfe9fc;
+
     padding-top: 50px;
     position: relative;
    /* margin: 0 auto;
@@ -10,7 +10,8 @@ body {
     background-image:url('images/SaveTheDate_bild.png');
     background-size:cover;
     background-color: #EEEEEE;
-    height:300px;
+    /*height:300px;*/
+    height:500px;
 }
 
 .fill{width:100%;height:350px;background-position:center;background-size:cover;
@@ -20,95 +21,280 @@ body {
     margin-left: 40px;
 }
 
+/*Brödtexten */
+p {
+   font-family: 'Palanquin', sans-serif;
+   color: #707075;
+}
+
+
 /* Default h1 */
 h1 {
-    font-family: 'Shadows Into Light', cursive;
-    color: #494546;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
+    color: #F8F8FA;
     font-size: 40px;
     letter-spacing: -1px;
     line-height: 1;
-    margin-bottom: 0;
-    margin: auto;
+
+   /* margin: auto;*/
+}
+
+.smallh1 {
+    color: #F8F8FA;
 }
 
 /* Default h2 */
 h2 {
-    font-family: 'Shadows Into Light', cursive;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
     font-size: 25px;
-    color: #494546;
+    color: #F8F8FA;
     margin: auto;
 }
 
 /* Default h3 */
 h3 {
-    font-family: 'Shadows Into Light', cursive;
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Arbutus Slab', serif;
     font-size: 20px;
-    color: #494546;
+    color: #F8F8FA;
     margin: auto;
 }
 
 #heroDateThumbnail {
-    background-color: #FCE2CF;
+    /*background-color: #F8F8FA;*/
+
+    background: rgba(248, 248, 249, 0); /* den sista nollan är opaciteten */
+    border: none;
     text-align:center;
-    padding: 10px;
-    margin: 20px;
+    width: 300px;
     margin-top: 40px;
+    margin-left:  auto;
+    margin-right: auto;
 }
 
-#heroDateThumbnail .glyphicon {
-    font-size: 50px;
-    margin: auto;
+#heroDateThumbnail h2 {
+    color: #F8F8FA;
 }
 
-#flower {
-    width: 150px;
+
+#rsvpSection1 {
+   text-align:center;
+    /*margin-top: 30px;*/
+    padding-top: 180px;
+    /*width: 400px;
+    margin: 0 auto;*/
+}
+
+#rsvpSection1 h1,
+#rsvpSection1 h2  {
+    color: #F8F8FA;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#hearts {
+    /*width: 30px;*/
+    /*margin: 20px;
+    float: left;*/
+
 }
 
 #greetingsPage {
-    background-color: #fccfd3;
+    background-color: #6DA3C7;
     padding-top: 50px;
 }
 
 #welcomeLetter {
-    background-color: #fff5ee;
-    padding: 20px;
-    margin-bottom: 20px;
+    background-color: #F8F8FA;
+    padding-top: 1px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 40px;
+    text-align:center;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
 }
 
 #welcomeLetter h1 {
-    font-family: 'Bad Script', cursive;
+    font-family: 'GFS Neohellenic', sans-serif;
+    color:#707075;
 }
 
 #welcomeLetter h2 {
-    font-family: 'Bad Script', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    color:#707075;
+}
+
+#welcomeLetter h3 {
+    font-family: 'Arbutus Slab', serif;
+    color:#707075;
+}
+
+#welcomeImageAmmouliani{
+    margin-bottom: 40px;
 }
 
 #welcomeImageThumbnail {
     font-family: 'Shadows Into Light', cursive;
 }
 
-#rsvpSection {
+#rsvpSection2 {
     text-align:center;
-    margin-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
+
 }
 
+#button1,
+#button2 {
+    padding-top: 15px;
+}
+
+
+/*registreringsknapp*/
 .btn {
+    font-family: 'Palanquin', sans-serif;
+    color: #F8F8FA;
     width: 200px;
-   
+    background-color: #02686F;
+    border: none;
+}
+
+.btn:hover {
+    color: #F8F8FA;
+    background-color: #09CAC7;
+}
+
+.btn:active {
+    color: #F8F8FA;
+    background-color: #B9D7D1;
+}
+
+#schedulePage {
+    padding-top: 30px;
+    background-color: #025377;
+}
+
+.caption h3 {
+    color: #707075;
+}
+
+.caption {
+    background-color: #F8F8FA;
+    border-color: #F8F8FA;
+}
+
+#timeTableThumbnail{
+    text-align:center;
+}
+#timeTableThumbnail h2{
+    color: #707075;
 }
 
 #practicalInfoSection {
-    background-color: #cffce2;
+    padding-top: 30px;
+    background-color: #6DA3C7;
 }
 
-#map {
-    width: 80%;
-    height: 400px;
-    background-color: grey;
-} 
+#travelSectionText {
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
 
+#hotelSectionText {
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
 
+#FAQSection{
+    padding-top: 30px;
+    background-color: #025377;
+}
+
+#ferrySectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#dresscodeSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#giftSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#toastSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#chalkidikiSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#moreinfoSectionText{
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+#FAQSectionText{    
+    background-color: #F8F8FA;
+    /*padding: 5px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+/* Den näst minsta skärmstorleken */
 @media (min-width: 768px) and (max-width: 991px) {
     /*body {
         background-color: red;
@@ -118,11 +304,17 @@ h3 {
     }
 
     #heroDateThumbnail {
+        width:500px;
         margin-top: 50px;
+    }
+
+     #rsvpSection1 {
+        padding-top: 150px;
     }
 
 }
 
+/* Den näst största skärmstorleken */
 @media (min-width: 992px) and (max-width: 1199px) {
     /*body {
         background-color: green;
@@ -133,20 +325,35 @@ h3 {
     }
 
     #heroDateThumbnail {
+        width:500px;
         margin-top: 50px;
+    }
+
+     #rsvpSection1 {
+        padding-top: 220px;
     }
 }
 
+/* Den största skärmstorleken */
 @media (min-width: 1200px) {
     /*body {
         background-color: lightgreen;
     }*/
 
     .hero-unit {
-        height:1000px;
+        height:800px;
     }
 
     #heroDateThumbnail {
+        width:500px;
+        margin-top: 50px;
+    }
+
+    #rsvpSection1 {
+        padding-top: 400px;
+    }
+
+    #rsvpSection2 {
         margin-top: 50px;
     }
 }

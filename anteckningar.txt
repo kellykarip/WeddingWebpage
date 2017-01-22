@@ -1,56 +1,45 @@
-FONT:
-Vanlig text - Garamond
-Kursiv text - Edwardian Script
-
 FÄRGER:
-Medelhavs-aqua, medelhavs-turkos, medelhavs-havsblå,
-bryta av med någon rosa/lila blom-färg
+Ljusblå bakgrund: #6DA3C7
+Mörkblå bakgrund: #025377
+Creame-Vit: #F8F8FA
+Mörkgrön: #02686F
+Mörkgrå text: #707075
+Turkos: #09CAC7
+Ljusgrå kompis: #B2C0CB {används ej just nu 7/1-2017}
+Mellanmörk turkos: #008A99 {anväds ej just nu 7/1-2017}
+
 ----------------------------------------------------------
 
 TODO:
-Overall design 
 
 Nav-bar
--Färg & Font []
 -Uppdatera med alla sidor allteftersom!
 
-Första-sidan
-- Bakgrundsbild [X]
-- Tomas & Kelly slutgiltig []
-- Länk till anmälan, på rätt plats, style:a den? []
-
 Välkomst-sidan
-- Färg & Font []
-- Beskär bild på oss till den andra bildens dimensioner []
-- Trekantiga "klisterlappar" som om bilder i ett album []
-- Länk till anmälan, style:a den? [] 
-- Kan vi göra kvadraten för brevet mer brev-likt?
-- Välkomsttext [X]
-- Bild på var vi ska vara [X]
-
+- Läs igenom brevet och känn yeah, yeah, wow, wow! []
+- Beskär bild på havet till den andra bildens dimensioner [] 
+- Gör brevet mer symmetriskt med bilderna, ha större padding på sidorna, och ja pyssla fram en bra design för alla skärmstorlekar []
 	
 Schema-sidan
+- Varför har schedulePage margin både ovan och nedanför? Är det kopplat till titel? []
+- Delete Titel understräck googla på bootstrap page-header 
 - Font
 - Cirklas med foton och text?
 - En faktiskt tidsLINJE?
+- FIxa så att bilderna har samma dimensioner för alla skärm-storlekar.
 
 Practical Information-sidan
-
-Karta-sub-sidan
-- Gör kartorna engelska []
-- Skriv Ta sig till Ammouliani-text []
-- Ändra settings för API key så att den bara får användas av min hemsida!
-
-Boende-sub-sidan 
-- Boende-info-text []
-- Passande bild
-- Ammouliani-hemsidan
+- Fixa typo Cruch i map []
+- Läs igenom ta sig till Ammouliani-texten och känn yeah, yeah, wow, wow! []
+- Läs igenom boende-tips texten och känn yeah, yeah, wow, wow! []
 
 FAQ-sidan
 - Kontakt-info-text
+- "Typisk Grekisk dag": Sova siesta, sen middag på bröllopsdagen
+- "Jag hittar inte all info" : Vi kommer uppdatera sidan allt eftersom vi har mer info under våren (håll utkik!) eller hör av er till: MAILADRESS
 
 Anmälan-sidan
-- Registerings-formular-text
+- Registerings-formular-text (Namn på folk i sällskap, email-adress,egen bil förfrågan, kött/inte kött, om de kommer på Welcome drink by the pool, om de kommer på Bröllopet)
 
 Extra:
 - Kuriosa-förklaringar-texter
