@@ -72,6 +72,7 @@ h3 {
     margin-top: 40px;
     margin-left:  auto;
     margin-right: auto;
+    padding-top: 20px;
 }
 
 #heroDateThumbnail h2 {
@@ -82,7 +83,7 @@ h3 {
 #rsvpSection1 {
    text-align:center;
     /*margin-top: 30px;*/
-    padding-top: 180px;
+    padding-top: 160px;
     /*width: 400px;
     margin: 0 auto;*/
 }
@@ -309,7 +310,7 @@ h3 {
     }
 
      #rsvpSection1 {
-        padding-top: 150px;
+        padding-top: 130px;
     }
 
 }
