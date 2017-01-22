@@ -1,4 +1,4 @@
-body {
+SaveTheDate_bildbody {
 
     padding-top: 50px;
     position: relative;
@@ -7,7 +7,7 @@ body {
 }
 
 .hero-unit {
-    background-image:url('images/SaveTheDate_bild.png');
+    background-image:url('images/SaveTheDate_bild_lowRes.png');
     background-size:cover;
     background-color: #EEEEEE;
     /*height:300px;*/
