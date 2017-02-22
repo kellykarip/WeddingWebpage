@@ -1,0 +1,53 @@
+body {
+	
+	background-color: #f08080;
+}
+
+p {
+   font-family: 'Palanquin', sans-serif;
+   color: #707075;
+}
+
+#heroDateThumbnail {
+    /*background-color: #F8F8FA;*/
+
+    background: rgba(248, 248, 249, 0); /* den sista nollan är opaciteten */
+    border: none;
+    text-align:center;
+    width: 300px;
+    margin-top: 40px;
+    margin-left:  auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+#dolphinImage {
+	background: rgba(248, 248, 249, 0);
+}
+
+/* Den näst minsta skärmstorleken */
+@media (min-width: 768px) and (max-width: 991px) {
+	#heroDateThumbnail {
+        width:500px;
+        margin-top: 50px;
+    }
+	
+}
+
+/* Den näst största skärmstorleken */
+@media (min-width: 992px) and (max-width: 1199px) {
+	#heroDateThumbnail {
+        width:500px;
+        margin-top: 50px;
+    }
+	
+	}
+
+/* Den största skärmstorleken */
+@media (min-width: 1200px) {
+	#heroDateThumbnail {
+        width:500px;
+        margin-top: 50px;
+    }
+	
+}

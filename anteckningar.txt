@@ -12,49 +12,34 @@ Mellanmörk turkos: #008A99 {anväds ej just nu 7/1-2017}
 
 TODO:
 
-Nav-bar
--Uppdatera med alla sidor allteftersom!
-
 Välkomst-sidan
-- Läs igenom brevet och känn yeah, yeah, wow, wow! []
 - Beskär bild på havet till den andra bildens dimensioner [] 
 - Gör brevet mer symmetriskt med bilderna, ha större padding på sidorna, och ja pyssla fram en bra design för alla skärmstorlekar []
 	
 Schema-sidan
-- Varför har schedulePage margin både ovan och nedanför? Är det kopplat till titel? []
 - Delete Titel understräck googla på bootstrap page-header 
-- Font
-- Cirklas med foton och text?
-- En faktiskt tidsLINJE?
 - FIxa så att bilderna har samma dimensioner för alla skärm-storlekar.
 
-Practical Information-sidan
-- Fixa typo Cruch i map []
-- Läs igenom ta sig till Ammouliani-texten och känn yeah, yeah, wow, wow! []
-- Läs igenom boende-tips texten och känn yeah, yeah, wow, wow! []
-
 FAQ-sidan
-- Kontakt-info-text
+- Lägga till fina bilder, t.ex. färja
+- Fixa "sektionsreferensen" utan Tomas "fulhack"
 - "Typisk Grekisk dag": Sova siesta, sen middag på bröllopsdagen
-- "Jag hittar inte all info" : Vi kommer uppdatera sidan allt eftersom vi har mer info under våren (håll utkik!) eller hör av er till: MAILADRESS
 
-Anmälan-sidan
-- Registerings-formular-text (Namn på folk i sällskap, email-adress,egen bil förfrågan, kött/inte kött, om de kommer på Welcome drink by the pool, om de kommer på Bröllopet)
+Den andra dimension
+- Fortsätt mecka: t.ex. delfinbilden
+- Texter
+- Grekiska fraser
+- Grekiska traditioner
+- Youtubevideor med grekisk dans
+- Ev. ta bort welcome letter i menyn och lägg till en ny url m. grek trad-sidan
+- t.ex. bobonieres, segelbåt ,oliv etc. 
 
 Extra:
 - Kuriosa-förklaringar-texter
 - Bakgrund-Kelly-och-Tomas-text
 ---------------------------------------------------------
 
-Första version:
-- På engelska
-- Datum, save the date
-- Plats (men inte så detaljerat)
-- Bilder, design
-- kontaktperson(er), kontaktinfo
-
 Senare prio:
-- googleanmälan
 - detaljerad info om bokning, planering ALLT
 - LegoGIF
 - instagram-flöde under festen
@@ -88,8 +73,3 @@ Enkel tutorial om React. React använder man om man vill ändra UI:t snabbt om m
 Detta verkar rätt enkelt faktiskt. Kanske något att pilla med senare om vi vill lära oss något nytt :)
 https://facebook.github.io/react/docs/tutorial.html
 ---------------------------------------------------------
-
-FÄRDIGT:
-- Köpa domän och serverplats på loopia
-- Ta bilder i Halkidiki med dimensionerna: bredd:2000 px
-- Inbjudningskort beställda, har frågat om färgkoder
