@@ -9,6 +9,18 @@ Ljusgrå kompis: #B2C0CB {används ej just nu 7/1-2017}
 Mellanmörk turkos: #008A99 {anväds ej just nu 7/1-2017}
 
 ----------------------------------------------------------
+Resetips:
+* Stagira (Aristoteles födelseort), fin bergsby nära
+http://www.dimosaristoteli.gr/en
+* Waterfalls of Varvara
+http://www.dimosaristoteli.gr/en/sights/varvara-waterfalls
+* Poligyros (Chalkidikis huvudstad)
+* Petralonas Cave
+* Philippos Tomb in Vergina
+* Ormos Panagias 
+* Båtturer kring Athon / Sithonia
+* Pella, Alexander den stores födelseort
+----------------------------------------------------------
 
 TODO:
 
